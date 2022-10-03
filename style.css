@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    border: 2px solid teal;
+    border-radius: 10px;
+    color: dodgerblue;
+    background-color: brown;
+}
+
+body{
+    font-family: "roboto", verdana, sans-serif;
+    background-image: url("Meuz.jpg");
+    background-size: 50%;
+}
+
+ul{
+    text-align: left;
+    background-color: orange;
+}
+h3{
+    text-align: left;
+    color: black;
+}
+
+
+.moon {
+    padding: 250px;
+    margin: 30px;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+
+    background-image: url("https://www.shutterstock.com/fr/search/smoothie");
+
+}
